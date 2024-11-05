@@ -1,2 +1,4 @@
-# blog
+# Blog
 My blog
+
+Coming soon
